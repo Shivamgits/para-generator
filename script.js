@@ -1,4 +1,4 @@
-const input = document.getElementById("numOfWords");
+const input = document.getElementById("numOfwords");
 const container = document.querySelector(".container");
 const getWords = (n) => {
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
